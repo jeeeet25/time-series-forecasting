@@ -1,4 +1,4 @@
-# Time Series Forecasting Project
+# Time Series Forecasting 
 
 This project focuses on time series forecasting using different techniques. The goal is to illustrate why Simple Exponential Smoothing (SES) may not be suitable for certain types of time series data and why alternatives like Holt-Winters are more appropriate.
 
